@@ -73,8 +73,7 @@ Centralized management system with modern UI & full control access.
 |----------|-------|
 | 🌐 Main Website | https://diamondstudio.site/ |
 | 🎛 Client Dashboard | https://diamondstudio.site/ |
-| 🖥 Hosting Panel | https://panel.diamondstudio.site/ |
-| 📦 Services & Plans | https://panel.diamondstudio.site/#services |
+| 📦 Services & Plans | https://diamondstudio.site/services |
 | ☁️ Cloud Platform | https://cloud.diamondstudio.site |
 | 📩 Mail System | https://mail.diamondstudio.site |
 | 💬 Discord Community | https://discord.gg/EFugZkrt8z |
